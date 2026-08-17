@@ -48,3 +48,7 @@ Enjoy!!
 <img width="465" height="718" alt="Screenshot 2026-08-17 at 3 45 48 PM" src="https://github.com/user-attachments/assets/eced6a0b-f97d-43db-9876-efcd3eb5daac" />
 <img width="497" height="843" alt="Screenshot 2026-08-17 at 3 45 50 PM" src="https://github.com/user-attachments/assets/c21ade54-a31c-4405-b29f-611c734d00c0" />
 <img width="537" height="846" alt="Screenshot 2026-08-17 at 3 45 53 PM" src="https://github.com/user-attachments/assets/f23a5e30-6a5b-41dd-92a0-680331b85493" />
+
+# Wiring:
+
+<img width="805" height="415" alt="Screenshot 2026-08-17 at 3 57 43 PM" src="https://github.com/user-attachments/assets/ad48c135-7e59-4ee0-a673-b7751bee2fee" />
